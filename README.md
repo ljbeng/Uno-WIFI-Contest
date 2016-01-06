@@ -14,3 +14,6 @@ good idea to deflect the heat into the house if the humidity of the air is high.
 both the temperature is >100 and the humidity is < a set point.  The set point is a potentiometer but could be set from the Electric
 Imp web page as well.
 
+Here is a video of the servo moving the door open and closed:
+https://youtu.be/COTz70SJQqE
+

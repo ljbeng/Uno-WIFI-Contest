@@ -2,7 +2,7 @@
 My project for the UNO Wifi Contest that circulates heat from a running clothes dryer into the house when the humidity of the hot air is 
 below a set value.
 
-This project uses an UNO, at TMP03 temperature sensor, an HIH-5030-001 Humidity sensor, a servo, a potentiometer and a 
+This project uses an UNO, at TMP36 temperature sensor, an HIH-5030-001 Humidity sensor, a servo, a potentiometer and a 
 Dryer Vent Heat Deflector similar to:
 http://www.acehardware.com/product/index.jsp?productId=1273159&KPID=964390&pla=pla_964390
 
